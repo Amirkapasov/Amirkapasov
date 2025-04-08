@@ -1,4 +1,3 @@
-[![Header](https://github.com/Amirkapasov/Amirkapasov/blob/main/assets/header.png)](https://www.instagram.com/asetovvich_/)
 ## Hi there, I'm Amir Qapassov 👋
 🔹 Software engineering | Test engineer | Developer of Machine learning
 
