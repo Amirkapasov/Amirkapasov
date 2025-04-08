@@ -20,6 +20,6 @@ I am a passionate full-stack developer specializing in Python. My expertise cove
 [![Email](https://img.shields.io/badge/-Gmail-010101?style=for-the-badge&logo=gmail&logoColor=)](https://mailto:kapasovamir777@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/asetovvich)
 
-
-
-💡 "Turning ideas into reality through code." 🚀
+### Here is summarization of my statistics:
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amirkapasov&show_icons=true)](https://github.com/Amirkapasov/github-readme-stats)
+#### 💡 "Turning ideas into reality through code." 🚀
