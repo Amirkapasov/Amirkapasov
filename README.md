@@ -3,12 +3,12 @@
 🔹 Software engineering | Test engineer | Developer of Machine learning
 
 
-## 🛠️ About Me 
+### 🛠️ About Me 
 I am a passionate full-stack developer specializing in Python. My expertise covers frameworks and technologies such as Django, MySQL. I am also one of the creators of Aru, an AI application.
 
 🚀 Currently working at IT since 2025
 
-## ⚙️ Tech Stack Python Django MySQL
+### ⚙️ Tech Stack Python Django MySQL
 ![Python](https://img.shields.io/badge/-PYTHON-010101?style=for-the-badge&logo=python&logoColor=D1A939)
 ![SQL](https://img.shields.io/badge/-SQL-010101?style=for-the-badge&logo=mysql&logoColor=00B3E0
 )
