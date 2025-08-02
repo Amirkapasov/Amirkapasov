@@ -15,7 +15,7 @@ I am a passionate full-stack developer specializing in Python. My expertise cove
 )
 
 ### 📡 Contact Me
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-010101?style=for-the-badge&logo=instagram&logoColor=BA32A7)](https://www.instagram.com/asetovvich_/)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-010101?style=for-the-badge&logo=instagram&logoColor=BA32A7)](https://www.instagram.com/boratbee/)
 [![Email](https://img.shields.io/badge/-Gmail-010101?style=for-the-badge&logo=gmail&logoColor=)](https://mailto:kapasovamir777@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/asetovvich)
 [![Discord](https://img.shields.io/badge/-Discord-010101?style=for-the-badge&logo=discord&logoColor=)](https://discord.gg/DvpA776T)
