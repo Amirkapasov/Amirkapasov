@@ -1,4 +1,4 @@
-## Hi there, I'm Amir Qapassov 👋
+## Hi there, I'm Amir 
 🔹 Software engineering | Test engineer | Developer of Machine learning
 
 
