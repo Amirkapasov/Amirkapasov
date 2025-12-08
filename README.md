@@ -19,7 +19,7 @@ I am a passionate full-stack developer specializing in Python. My expertise cove
 ![Java](https://img.shields.io/badge/-JAVA-010101?style=for-the-badge&logo=openjdk&logoColor=E76F00)
 ![C++](https://img.shields.io/badge/-C++-010101?style=for-the-badge&logo=cplusplus&logoColor=1BA093)
 ![HTML](https://img.shields.io/badge/-HTML5-010101?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-010101?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-010101?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 
 ### 📡 Contact Me
