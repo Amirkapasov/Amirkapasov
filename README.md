@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/GDE7_wW_QvgAAAAd/grin-anime.gif" width="100%" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Amir</h1>
 <h3 align="center">Software Engineer | Machine Learning Developer</h3>
