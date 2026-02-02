@@ -27,10 +27,6 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirkapasov&label=Profile%20views&color=1f6feb&style=flat" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,7 +59,6 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 
 ---
 
-## 💬 Engineering Motto
-
-<p align="center"><i>"Good backend code is invisible — until it breaks."</i></p>
-м
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirkapasov&label=Profile%20views&color=1f6feb&style=flat" />
+</p>
