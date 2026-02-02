@@ -31,14 +31,13 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirkapasov&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Amirkapasov&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirkapasov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Amirkapasov&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkapasov&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkapasov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Activity
