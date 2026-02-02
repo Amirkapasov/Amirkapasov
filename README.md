@@ -30,13 +30,17 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirkapasov&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=amirkapasov&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amirkapasov&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirkapasov&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=amirkapasov&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirkapasov&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
