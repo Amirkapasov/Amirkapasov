@@ -9,12 +9,12 @@
 
 ## 🧠 About Me
 
-Backend-focused developer with a strong interest in building scalable systems, APIs, and data-driven applications.
+Backend-focused developer passionate about building scalable systems, APIs, and reliable server-side applications.
 
-- ⚙️ Working primarily with **Python & Django**
-- 🗄 Designing and optimizing **PostgreSQL/MySQL** databases
-- 🔗 Building **REST APIs & backend architectures**
-- 🧩 Interested in **system design and performance**
+- ⚙️ Primary stack: **Python & Django**
+- 🗄 Database design with **PostgreSQL / MySQL**
+- 🔗 Building **RESTful APIs**
+- 🚀 Interested in **system design & performance optimization**
 - 🎓 IT student at **AITU (SE-2502)**
 
 ---
@@ -25,9 +25,11 @@ Backend-focused developer with a strong interest in building scalable systems, A
   <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,docker,linux" />
 </p>
 
-### Also familiar with
+---
 
-`Java` • `C++` • `HTML/CSS` • `OOP` • `Data Structures`
+### 🧩 Core Knowledge
+
+`OOP` • `Data Structures` • `Algorithms` • `REST APIs` • `SQL Design`
 
 ---
 
@@ -44,7 +46,7 @@ Backend-focused developer with a strong interest in building scalable systems, A
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amirkapasov/Amirkapasov/output/github-contribution-grid-snake-dark.svg" />
@@ -66,3 +68,4 @@ Backend-focused developer with a strong interest in building scalable systems, A
 ## 💬 Engineering Motto
 
 <p align="center"><i>"Good backend code is invisible — until it breaks."</i></p>
+м
