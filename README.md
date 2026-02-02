@@ -27,18 +27,18 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirkapasov&label=Profile%20views&color=1f6feb&style=flat" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amirkapasov&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amirkapasov&show_icons=true&theme=tokyonight&hide_border=true" /><img height="165" src="https://streak-stats.demolab.com?user=amirkapasov&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amirkapasov&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirkapasov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirkapasov&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
