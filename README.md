@@ -22,7 +22,7 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 ## 🛠 Backend Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,django,flutter,postgres,mysql,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,django,postman,flutter,postgres,mysql,git,docker,linux" />
 </p>
 
 ---
