@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/GDE7_wW_QvgAAAAd/grin-anime.gif" width="100%" />
 </p>
 
-<h1 align="center">Amir Kapasov</h1>
+<h1 align="center">Amir Kapassov</h1>
 <p align="center"><b>Backend Developer • Software Engineer</b></p>
 
 ---
