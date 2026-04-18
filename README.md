@@ -6,17 +6,6 @@
 <p align="center"><b>Backend Developer • Software Engineer</b></p>
 
 ---
-
-## 🧠 About Me
-
-Backend-focused developer passionate about building scalable systems, APIs, and reliable server-side applications.
-
-- ⚙️ Primary stack: **Python & Django**
-- 🗄 Database design with **PostgreSQL / MySQL**
-- 🔗 Building **RESTful APIs**
-- 🚀 Interested in **system design & performance optimization**
-- 🎓 IT student at **AITU (SE-2502)**
-
 ---
 
 ## 🛠 Backend Tech Stack
@@ -37,15 +26,6 @@ Backend-focused developer passionate about building scalable systems, APIs, and 
 
 
 ---
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amirkapasov/Amirkapasov/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🌐 Contact
 
 <p align="center">
