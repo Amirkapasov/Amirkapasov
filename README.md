@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/GDE7_wW_QvgAAAAd/grin-anime.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/L0dGnbjnsrUAAAAd/sword-art-online-sao.gif" width="100%" />
 </p>
 
 <h1 align="center">Amir Kapassov</h1>
