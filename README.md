@@ -29,9 +29,9 @@
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://instagram.com/asetovvich"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
+  <a href="https://instagram.com/asetovvich_"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:kapasovamir777@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail"></a>
-  <a href="https://t.me/ilov7A"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/asetovvich"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram"></a>
   <a href="https://discord.gg/lolman9891"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord"></a>
 </p>
 
