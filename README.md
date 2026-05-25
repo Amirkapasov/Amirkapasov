@@ -11,7 +11,7 @@
 ## 🛠 Backend Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,django,postman,flutter,postgres,mysql,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,django,postman,flutter,postgres,mysql,git,docker,mac" />
 </p>
 
 ---
